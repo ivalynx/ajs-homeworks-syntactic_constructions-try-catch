@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lieqg2mgowx1xo41?svg=true)](https://ci.appveyor.com/project/ivalynx/ajs-homeworks-syntactic-constructions-try-catch)
